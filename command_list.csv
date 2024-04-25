@@ -1,0 +1,85 @@
+    1  git config --global user.name "TaisiaHvlich"
+    2  git config --global user.email tayagevlich@gmail.com
+    3  git clone https://github.com/TaisiaHevlich/HW__10.git
+    4  git clone [200~https://github.com/TaisiaHevlich/HW__10~
+    5  git clone https://github.com/TaisiaHevlich/HW__10
+    6  git clone https://github.com/TaisiaHevlich/HW_10
+    7  cd HW_10
+    8  touch text_ignore.txt
+    9  echo "text_ignore.txt" >> .gitignore
+   10  cd .gitignore
+   11  echo "text_ignore.txt" >> .gitignore
+   12  pwd
+   13  cat .gitignore
+   14  git status
+   15  git add .
+   16  git add .gitignore
+   17  git commit -m "Комит 1"
+   18  git commit -m "comit1"
+   19  git push origin main
+   20  touch main_test.txt
+   21  git add .
+   22  git commit -m "comit2"
+   23  git push origin main
+   24  git branch Branch2
+   25  checo
+   26  checkout Branch2
+   27  git branch -d Branch2
+   28  git branch develop
+   29  checkout develop
+   30  git checkout develop
+   31  git add .
+   32  git commit -m "comit3"
+   33  touch develop_test.txt
+   34  git add .
+   35  git commit -m "comit3"
+   36  echo "Hello World!" >> develop_test.txt
+   37  git status
+   38  git add .
+   39  git commit -m "comit4"
+   40  git push origin main
+   41  git checkout develop
+   42  touch develop_test.txt
+   43  git add .
+   44  git commit -m "comit3"
+   45  git push origin develop
+   46  git checkout mail
+   47  git checkout main
+   48  git checkout main
+   49  git merge develop
+   50  git log
+   51  git add .
+   52  git commit -m "comit5"
+   53  git push
+   54  history > command_list.csv 
+   55  git add .
+   56  history > command_list.csv
+   57  git add .
+   58  git checkout main
+   59  git checkout main
+   60  history > command_list.csv
+   61  git add .
+   62  git push
+   63  git push origin main
+   64  history > command_list.csv 
+   65  git add .
+   66  history > command_list2.csv 
+   67  git add .
+   68  cd "C:\Users\tayag\OneDrive\Рабочий стол\Homework"
+   69  cd "D:\HW"
+   70  git config --global user.name "TaisiaHevlich"
+   71  git config --global user.email tayagevlich@gmail.com
+   72  git clone https://github.com/TaisiaHevlich/HW_10
+   73  git checkout main
+   74  git checkout 
+   75* 
+   76  git checkout main
+   77  .git
+   78  git .
+   79  git clone https://github.com/TaisiaHevlich/HW_10
+   80  cd HW_10
+   81  git checkout main
+   82  git checkout main
+   83  git merge develop
+   84  git push
+   85  history > command_list.csv 
